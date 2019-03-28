@@ -1,0 +1,41 @@
+2019-03-26
+
+[HTML Tag] - 태그와 속성
+
+<strong> 굵게
+<u> 밑줄
+<p> 단락
+<br> 줄바꿈
+<li> 리스트
+<ul> 순서없는 리스트
+<ol> 순서있는 리스트
+
+<!doctype html>
+<html>
+<head>
+<body>
+<title> 브라우져 제목
+<a> 링크속성
+    href 링크
+    target="_blank" 새로운창
+    title 링크제목
+
+Webpage 가 모여서 Website가 된다.
+
+======================
+
+web hosting site >> github.com
+
+id: Suhakim
+pw: rlatngk010
+
+========================
+
+*https://cloud.google.com/gcp/?hl=ko&utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-ko-dr-bkws-all-super-trial-b-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_266440439900-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20T1%20%7C%20BMM%20%7C%20General%20%7C%201:1%20%7C%20KR%20%7C%20ko%20%7C%20Cloud%20%7C%20google%20cloud%20%7C%20en-KWID_43700032535853687-kwd-28176139768&userloc_1030718&utm_term=KW_%2Bgoogle%20%2Bcloud&gclid=CjwKCAjwvuzkBRAhEiwA9E3FUlVprJfwGkT74IWmZHzoBUMbX6UgHiKjm7Z9cH7rdm_QRTpLQzWx9hoCgv8QAvD_BwE
+
+구글 클라우드서비스 12개월무료
+
+==========================
+
+bitnami.com
+
